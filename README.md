@@ -1,3 +1,4 @@
 # Os
 
-This Repository is made to store the Jupyter Files we have made
+This Repository is made to save the 'Os' Scripts we have made
+
